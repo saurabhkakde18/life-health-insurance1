@@ -1,4 +1,4 @@
-import { FileText, Download, UploadCloud, Eye, Trash2 } from 'lucide-react';
+import { FileText, Download, UploadCloud, Eye } from 'lucide-react';
 
 const documents: any[] = [];
 
